@@ -1,0 +1,11 @@
+.venvv/
+FloodAI_Hackathon_Epsilon/
+IMD/
+imd2/
+segmentation/image/
+segmentation/Mask/
+segmentation/metadata.csv
+segmentation/segmentation.h5
+random_forest_model.joblib
+
+
