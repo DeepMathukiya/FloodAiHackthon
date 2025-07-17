@@ -27,3 +27,9 @@ The system also includes functionality for **flood mapping**, **masking flooded 
 ```bash
 git clone https://github.com/DeepMathukiya/FloodAiHackthon.git
 cd FloodPre
+```
+
+## Early Warning System
+Please refer <a href="https://github.com/DeepMathukiya/FloodAI_Hackathon_Epsilon">link</a> for EWS Part of the Project.. 
+
+
