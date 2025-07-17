@@ -4,7 +4,11 @@ import google.generativeai as genai
 # Function to generate SQL query or data based on the question
 def get_sql(question):
     # Replace this with your actual API key
+<<<<<<< Updated upstream
     genai.configure(api_key="API_KEY")
+=======
+    genai.configure(api_key="YOUR_API_KEY")
+>>>>>>> Stashed changes
     
     # Set up the model
     generation_config = {
